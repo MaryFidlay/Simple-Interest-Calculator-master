@@ -10,3 +10,5 @@
  - Calculation: Computes simple interest and total amount to be received at the end of the investment period.
  - User-friendly UI: Clean, modern design with responsive inputs and clear results.
  - Year calculation: Automatically calculates the future year when the interest will be received.
+
+https://simpleinterestc.netlify.app/
